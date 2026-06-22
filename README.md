@@ -1,6 +1,6 @@
 # Storyboard — Afrique de l'Est : inégalités d'accès au transport aérien
 
-**Scénario B** — Audience : grand public (article de blog). Message : sensibiliser sur les inégalités d'accès au transport aérien.
+ Audience : grand public (article de blog). Message : sensibiliser sur les inégalités d'accès au transport aérien.
 
 ## 1. Issue
 On imagine l'Afrique de l'Est comme un ensemble cohérent ; en réalité, l'accès
